@@ -31,7 +31,3 @@ build/
 
 ### VS Code ###
 .vscode/
-
-### My SQL Host Data ###
-my-sql-data
-mongo-data
